@@ -89,7 +89,7 @@ git push origin main
 Обычный коммит:
 
 ```
-git pull
+git pull origin main
 
 git add .
 
@@ -98,3 +98,5 @@ git commit -m "text"
 git push origin ai_service
 
 ```
+
+Внимание! Имейте ввиду что вместо main вы указываете ту ветку на которой работаете в репозитории.
